@@ -15,3 +15,5 @@ save the images of weeds with their location so that when the farmer is viewing 
 he will be able to identify them himself and because of this system he will know the location of
 the weeds. This system will be mounted on an autonomous robot which will be able to navigate
 through canola fields
+
+![alt text](https://github.com/GoldenFalcon1/Autonomous-Surveillance-Robot/blob/master/1.JPG)
