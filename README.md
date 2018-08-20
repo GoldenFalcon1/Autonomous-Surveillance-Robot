@@ -7,6 +7,9 @@ and keep track of the positioning, mostly used in feedback applications. And als
 with Ultrasonic Range Finder sensors in Arduino board that provide the feedback to the robot
 so that it can navigate through the fields and keep itself on the path
 
+![alt text](https://github.com/GoldenFalcon1/Autonomous-Surveillance-Robot/blob/master/1.JPG)
+
+
 In this project, I have used Machine Learning Technique to detect Canola Leaves. This system is
 detecting canola leaves instead of weeds because there are hundreds of different types of
 weeds found in canola so instead of training the system to detect all sorts of weeds, it was
@@ -16,7 +19,6 @@ he will be able to identify them himself and because of this system he will know
 the weeds. This system will be mounted on an autonomous robot which will be able to navigate
 through canola fields
 
-![alt text](https://github.com/GoldenFalcon1/Autonomous-Surveillance-Robot/blob/master/1.JPG)
 
 
 
